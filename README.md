@@ -23,6 +23,7 @@
 
 | Nom  | Auteur  | Version |
 | :------------: | :------------:  | :------------: |
+| electron | electron  | 4.1.4 | 
 | electron-icon-generator | manojsinghnegi  | 1.0.2 | 
 | electron-context-menu | sindresorhus  | 0.10.0 |
 | electron-dl | sindresorhus  | 1.10.0 |
