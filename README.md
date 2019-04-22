@@ -1,6 +1,6 @@
 # Le Bunker.net
 
-[![Discord](https://img.shields.io/discord/568064259108503592.svg "Discord")](https://img.shields.io/discord/568064259108503592.svg "Discord") [![RepoSize](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "Discord")](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "RepoSize")
+[![Discord](https://img.shields.io/discord/568064259108503592.svg "Discord")](https://img.shields.io/discord/568064259108503592.svg "Discord") [![RepoSize](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "Discord")](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "RepoSize") [![Download](https://img.shields.io/github/downloads/FellGill/lebunker-app/total.svg "Discord")](https://img.shields.io/github/downloads/FellGill/lebunker-app/total.svg "Download")
 
 #### Une application pour le site du dieu Psyko Sauce
 
