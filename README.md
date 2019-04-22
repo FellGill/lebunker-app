@@ -32,3 +32,8 @@
 | source-map-support | evanw  | 0.5.0 |
 | nativefier | jiahaog  | 7.6.12 | 
 | wurl | websanova  | 2.5.2 |
+
+------------
+
+#### Visu' du dépot:
+[![https://github.com/FellGill/lebunker-app/blob/master/vizualitation.PNG?raw=true](https://github.com/FellGill/lebunker-app/blob/master/vizualitation.PNG?raw=true "https://github.com/FellGill/lebunker-app/blob/master/vizualitation.PNG?raw=true")](https://github.com/FellGill/lebunker-app/blob/master/vizualitation.PNG?raw=true "https://github.com/FellGill/lebunker-app/blob/master/vizualitation.PNG?raw=true")
