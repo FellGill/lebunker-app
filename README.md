@@ -1,5 +1,7 @@
 # Le Bunker.net
 
+[![Discord](https://img.shields.io/discord/568064259108503592.svg "Discord")](https://img.shields.io/discord/568064259108503592.svg "Discord") [![RepoSize](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "Discord")](https://img.shields.io/github/repo-size/FellGill/lebunker-app.svg "RepoSize")
+
 #### Une application pour le site du dieu Psyko Sauce
 
 | Plateforme  | Architecture  | Disponible ? |
