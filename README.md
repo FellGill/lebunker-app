@@ -26,13 +26,13 @@
 | Nom  | Auteur  | Version |
 | :------------: | :------------:  | :------------: |
 | electron | electron  | 4.1.4 | 
+| electron-packager | electron  | latest | 
 | electron-icon-generator | manojsinghnegi  | 1.0.2 | 
 | electron-context-menu | sindresorhus  | 0.10.0 |
 | electron-dl | sindresorhus  | 1.10.0 |
 | electron-squirrel-startup | mongodb-js  | 4.1.1 | 
 | loglevel | pimterry  | 1.5.1 |
-| source-map-support | evanw  | 0.5.0 |
-| nativefier | jiahaog  | 7.6.12 | 
+| source-map-support | evanw  | 0.5.0 | 
 | wurl | websanova  | 2.5.2 |
 
 ------------
